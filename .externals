@@ -1,0 +1,7 @@
+repositories:
+
+  _externals/3_5_1_release:
+    type:             git
+    url:              https://github.com/andry81-3dparty/protobuf
+    version:          3_5_1_release
+    fetch-to-branch:  3_5_1_release

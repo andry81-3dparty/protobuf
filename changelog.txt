@@ -1,0 +1,2 @@
+2023.04.12:
+* new: branch with the library repository changes at release 3.5.1 commit #106ffc04be1abf3ff3399f54ccf149815b287dd9 (2017.12.21) from https://github.com/protocolbuffers/protobuf/commits/v3.5.1
